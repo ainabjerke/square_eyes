@@ -1,4 +1,4 @@
-# Square eyes is an website featuring movies for men and women 
+# Square eyes is an website featuring movies 
 Cross course Project 
 
 ![image](https://i.ibb.co/Q8TcJnY/square-eyes-webpage-img.jpg)
