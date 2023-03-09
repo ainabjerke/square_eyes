@@ -15,7 +15,7 @@ Cross course Project
 
 ## Description
 
-This project was my semester project through my first year of studies. It is an website featuring movies for men and women.
+This project was my a cross course project during my first year of studies. It is a website featuring movies for men and women.
 
 Some features:
 - Responsive layout
